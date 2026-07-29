@@ -1,5 +1,5 @@
 {
-    "name": "Assijus Signer",
+    "name": "Assijus Signer - PRODEA | ENFAS",
     "version": "2.0.0",
     "background": { 
         "service_worker": "background.js" 
@@ -12,18 +12,10 @@
         "96": "icon96.png"
     },
     "externally_connectable": {
-        "matches": ["https://assijus.trf2.jus.br/assijus/*", "https://assijus.jfrj.jus.br/assijus/*", "https://assijus.trf4.jus.br/*",
-            "https://assijus.desenvolvimento.spsempapel.sp.gov.br/*", "https://assijus.homologacao.spsempapel.sp.gov.br/*", "https://assijus.spsempapel.sp.gov.br/*",
-            "*://sigat.jfrj.jus.br/assijus/*", "https://sigah.jfrj.jus.br/assijus/*", "https://assijush.jfrj.jus.br/assijus/*",
-            "*://homologa.assijus.mt.gov.br/assijus/*", "*://assijus.mt.gov.br/assijus/*",
-            "*://assijus.processo.rio/assijus/*", "*://assijush.processo.rio/assijus/*",
-            "*://assijus.telebras.com.br/*", "*://assijus-homologacao.telebras.com.br/*", "*://assijus-desenvolvimento.telebras.com.br/*",
-            "*://assijus.infraero.gov.br/*", "*://assijushml.infraero.gov.br/*", "*://assijusnav.infraero.gov.br/*",
-            "*://assijus.riopreto.sp.gov.br/*",
-            "*://assijus.campinas.sp.leg.br/*",
-            "*://assijus.finep.gov.br/*",
-            "*://ittrufusion.appspot.com/*",
-            "*://localhost/assijus/*", "*://localhost/*"
+        "matches": [
+            "*://assijus.enfassempapel.enfas.com.br/*",
+            "*://treinamento.enfassempapel.enfas.com.br/*",
+            "*://documentos.enfassempapel.enfas.com.br/*"
         ]
     },
     "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkpy8Kb6VwGsfkAINGbybGlo9V/XuKlVhl8sloQNVlOrAbIKccXNmBkg9v9bT0ZrNFUIaBIVif02TD3YOKMgZxvjs8hThoQNxkCjUPAlHp92fuDxIaZcbiVQC1XzJw8a9tFDABbjjKItl+Wap5sOPytLDcsn12+ngwQ/E8lNka75+dK432BsmHp1Rpe367MY8dVtvJhyJOhADdHDkdG6cSu2wQByZHNF74Us2IZeu4Dloa5n7LYO2SXBYrDxjbqpvCZniP2uJ5xatAhH5mHyTUr0b+TtnHEgVlj23kdMoSfHH0+ftDAzXLvLnIobk/+sFf7rbcqP6Gk96XfMHkFztRQIDAQAB"
