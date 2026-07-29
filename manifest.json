@@ -13,9 +13,10 @@
     },
     "externally_connectable": {
         "matches": [
-            "*://assijus.enfassempapel.enfas.com.br/*",
             "*://treinamento.enfassempapel.enfas.com.br/*",
-            "*://documentos.enfassempapel.enfas.com.br/*"
+            "*://documentos.enfassempapel.enfas.com.br/*",
+            "*://assijus.homologacao.enfassempapel.enfas.com.br/*",
+            "*://assijus.enfassempapel.enfas.com.br/*"
         ]
     },
     "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkpy8Kb6VwGsfkAINGbybGlo9V/XuKlVhl8sloQNVlOrAbIKccXNmBkg9v9bT0ZrNFUIaBIVif02TD3YOKMgZxvjs8hThoQNxkCjUPAlHp92fuDxIaZcbiVQC1XzJw8a9tFDABbjjKItl+Wap5sOPytLDcsn12+ngwQ/E8lNka75+dK432BsmHp1Rpe367MY8dVtvJhyJOhADdHDkdG6cSu2wQByZHNF74Us2IZeu4Dloa5n7LYO2SXBYrDxjbqpvCZniP2uJ5xatAhH5mHyTUr0b+TtnHEgVlj23kdMoSfHH0+ftDAzXLvLnIobk/+sFf7rbcqP6Gk96XfMHkFztRQIDAQAB"
